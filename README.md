@@ -64,6 +64,18 @@ With thanks to their authors.
 * [moment.js](http://momentjs.com)
 * and anyone else I've missed.
 
+ToDo
+----
+- [x] Create new branch
+- [ ] Refactor to remove unnecessary baggage  
+- [ ] Simplify build/deploy process, set up CI/CD and host on AWS S3
+- [ ] Implement Dropbox V2 API 
+
+Future goals
+------------
+- [ ] Reports for edits, completions, etc
+- [ ] Charts to display useful metrics
+
 License
 -------
 
